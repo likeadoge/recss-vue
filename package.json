@@ -1,0 +1,23 @@
+{
+  "name": "recss-vue",
+  "version": "0.1.0-beta",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likeadoge/recss-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likeadoge/recss-vue/issues"
+  },
+  "homepage": "https://github.com/likeadoge/recss-vue#readme",
+  "devDependencies": {
+    "learn": "^0.1.5",
+    "lerna": "^3.20.2"
+  }
+}
